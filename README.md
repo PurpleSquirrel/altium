@@ -1,4 +1,4 @@
 altium
 ======
 
-Altium Designer Library
+Libraries for Altium Designer.
